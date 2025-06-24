@@ -1,0 +1,9 @@
+# Ignore .env files in all subfolders
+**/.env
+
+# Common ignores
+node_modules/
+dist/
+.env.local
+.env.production
+.DS_Store
